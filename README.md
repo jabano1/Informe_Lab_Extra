@@ -28,3 +28,6 @@
 ![Teorema de Thenevin](https://user-images.githubusercontent.com/105677231/183779622-ea299748-cc84-4351-994f-2c0c6d47798f.JPG)
 ***
 
+**3. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+
