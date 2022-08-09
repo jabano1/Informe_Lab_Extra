@@ -17,3 +17,14 @@
 * Examinar el circuito de Thevenin para resolver problemas sintetizando varias partes del circuito para encontrar valores especificos. 
 
 **2. MARCO TEORICO**
+
+**Teorema de Superposicion**
+
+![Teorema de Superposicion](https://user-images.githubusercontent.com/105677231/183779585-1b03486a-34cc-4254-8b9f-724ee45ec4a6.JPG)
+***
+
+**Teorema de Thevenin**
+
+![Teorema de Thenevin](https://user-images.githubusercontent.com/105677231/183779622-ea299748-cc84-4351-994f-2c0c6d47798f.JPG)
+***
+
