@@ -135,6 +135,12 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 **5.CONCLUSIONES**
 
+-Se puede concluir que el teorema de superposicion es muy util al momento de trabajar con dos o mas fuentes de corriente y voltaje, ya que al simplificar los pasos para resolver un problema se vuelve mas facil su planteamiento.
+
+-El teorema de Thevenin es muy util para convertir un circuito grande en uno mas simple para resolver las incognitas solicitadas, debido a esta simplificacion se puede determinar con facilidad el valor de la corriente y voltaje de un circuito complejo.
+
+-La mayoria de los teoremas estudiados en clase, ayudaran en el momento de resolver problemas de diferentes planteamientos, permitiendo determinar tambien la potencia de un elemento o circuito. 
+
 **6.BIBLIOGRAFÍA**
 
 Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
