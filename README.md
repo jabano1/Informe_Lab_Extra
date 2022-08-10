@@ -31,6 +31,7 @@
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
 **CIRCUITO 1**
+
 La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se determine la potencia suministrada en la resistencia R3.
 
 ![image](https://user-images.githubusercontent.com/105677231/183782985-db0dea3b-fb36-4ad9-9761-4d5fa18efe9d.png)
