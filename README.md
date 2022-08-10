@@ -101,6 +101,36 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 ![image](https://user-images.githubusercontent.com/105677231/184026490-f43f9068-8572-46e9-9576-b8bcf6bba889.png)
 
 
+**CIRCUITO 3**
+
+-El planteamiento de este circuito indica que se debe calcular la intensidad que pasará por la resistencia de 5Ω utilizando Thevenin. Para esto se tiene que armar el circuito, dando como resultado: 
+
+![image](https://user-images.githubusercontent.com/105677231/184026741-e5be52fb-0a2d-49a2-ad8f-7efd16288dff.png)
+
+-Como se habia mencionado antes, el teorema de Thevenin dicta que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin. 
+
+-En este caso la resistencia de carga será la de 5Ω, y es la que se quiere calcular la intensidad de corriente. 
+
+**Por lo tanto el voltaje de Thevenin quitando la resistencia de 5ohms es el siguiente:**
+
+![image](https://user-images.githubusercontent.com/105677231/184026942-446332a0-7f51-422b-a0ac-1a47b20ccda1.png)
+
+-Se coloca el multimetro en los extremos del circuito abierto para medir el voltaje de Thevenin.
+
+**La resistencia equivalente de Thevenin es la siguiente:**
+
+![image](https://user-images.githubusercontent.com/105677231/184027030-2a4a2cc0-ea7c-4384-8a54-1c45fc30fc23.png)
+
+-Para determinar la resistencia de Thevenin, se reemplazan las fuentes por su resistencia interna, la cual es un circuito cerrado o simplemente un cable de conexion. 
+
+**El circuito de Thevenin:**
+
+![image](https://user-images.githubusercontent.com/105677231/184027097-a899518b-3d50-4966-afdb-c2f0019322d1.png)
+
+-Como ya se conoce, se coloca un poteciometro para indicar el valor exacto de la resistencia de thevenin. Finalmente se procede a medir la corriente que pasa por la resistencia de 5ohms.
+
+![image](https://user-images.githubusercontent.com/105677231/184027294-69a36013-4228-414c-9138-df16f81a010b.png)
+
 **4.VIDEO**
 
 **5.CONCLUSIONES**
