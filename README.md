@@ -60,7 +60,7 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 -En este caso se ha utilizado un potenciometro para obtener el valor exacto de la resistencia calculada o medida en la parte de la resistencia equivalente de Thevenin. De esta manera se obtienen los resultados obtenidos para proceder a sacar la potencia que existe en R3 o resistencia de carga. 
 
-![image](https://user-images.githubusercontent.com/105677231/183783805-6d985dc9-284b-49a2-a30a-832792b92279.png)
+![image](https://user-images.githubusercontent.com/105677231/183784022-a97cc58f-c4ef-4a8e-be4c-0725fa02398c.png)
 
 -Para comprobar el resultado de la potencia, se utiliza un vatímetro, que ayudará en la medicion de esta magnitud. Utilizando el DCACLab.
 
