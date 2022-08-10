@@ -68,8 +68,13 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 ![image](https://user-images.githubusercontent.com/105677231/183783895-b79c66d6-6493-4159-995a-2f201475a55f.png)
 
+**4.VIDEO**
 
+**5.CONCLUSIONES**
 
+**6.BIBLIOGRAFÍA**
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
 
 
 
