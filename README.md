@@ -77,6 +77,23 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 ![image](https://user-images.githubusercontent.com/105677231/184025522-6f4939d2-ff9f-48ce-a7b1-2b6782ca41f6.png)
 
+-El teorema de superposicion indica que se deben reemplazar las fuentes de corriente y de voltaje por su resistencia interna. Dependiendo de cuantas fuentes de corriente o de voltaje se tenga, se formaran los circuitos. En otras palabras, el numero de fuentes de voltaje o de corriente es igual al numero de circuitos. 
+
+- Para formar el primer circuito, se reemplazará la fuente de 10 voltios por su resistencia interna la cual tiene un valor de cero. Se procede a medir el voltaje que pasa a traves de la resistencia de 12Ω. 
+
+![image](https://user-images.githubusercontent.com/105677231/184026134-cc6a5c34-628a-4097-a9ae-0053ee37878e.png)
+
+-A su vez se tiene que medir la corriente que pasa por la misma resistencia. 
+
+![image](https://user-images.githubusercontent.com/105677231/184026187-53b5c655-e427-4b80-9b05-15fbdbaac993.png)
+
+- Para formar el segundo circuito, se reemplazará la fuente de 16 voltios por su resistencia interna la cual tiene un valor de cero. Se procede a medir el voltaje que pasa a traves de la resistencia de 12Ω.
+
+![image](https://user-images.githubusercontent.com/105677231/184026239-e6371258-e220-4513-8ce5-01c3bf17e0f9.png)
+
+-A su vez se tiene que medir la corriente que pasa por la misma resistencia. 
+
+![image](https://user-images.githubusercontent.com/105677231/184026273-666f299a-b28c-451d-b0b7-4b70a42200ec.png)
 
 
 
