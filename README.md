@@ -68,6 +68,18 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 ![image](https://user-images.githubusercontent.com/105677231/183783895-b79c66d6-6493-4159-995a-2f201475a55f.png)
 
+**CIRCUITO 2**
+-EL segundo ejercicio dice que se debe encontrar la corriente y el voltaje a traves de la resistencia de 12Ω mediante el teorema de superposición. 
+
+![image](https://user-images.githubusercontent.com/105677231/184025417-de69e5de-ced4-4843-bcd7-13b23b2bac79.png)
+
+- Primeramente se tiene que armar el circuito, obteniendo lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105677231/184025522-6f4939d2-ff9f-48ce-a7b1-2b6782ca41f6.png)
+
+
+
+
 **4.VIDEO**
 
 **5.CONCLUSIONES**
