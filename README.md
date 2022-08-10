@@ -30,6 +30,7 @@
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
+**CIRCUITO 1**
 La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se determine la potencia suministrada en la resistencia R3.
 
 ![image](https://user-images.githubusercontent.com/105677231/183782985-db0dea3b-fb36-4ad9-9761-4d5fa18efe9d.png)
@@ -46,7 +47,7 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 ![image](https://user-images.githubusercontent.com/105677231/183783388-b08cdfaf-caae-4325-9f30-30032a37beef.png)
 
--Se coloca el multimetro en los extremos del circuito abierto.
+-Se coloca el multimetro en los extremos del circuito abierto para medir el voltaje de Thevenin.
 
 **La resistencia equivalente de Thevenin es la siguiente:**
 
