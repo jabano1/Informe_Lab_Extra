@@ -38,6 +38,37 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 ![image](https://user-images.githubusercontent.com/105677231/183783044-e79cb572-3baa-48fb-93a1-163bce45ba65.png)
 
+-El teorema de Thevenin dice que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin. 
+
+-Para obtener estos valores se debe indicar una resistencia de carga, la cual se quitará para poder obtener el voltaje y resistencia de Thevenin. En este caso se quitará la resistencia de 2.2 kΩ. 
+
+**Por lo tanto el voltaje de Thevenin es el siguiente:**
+
+![image](https://user-images.githubusercontent.com/105677231/183783388-b08cdfaf-caae-4325-9f30-30032a37beef.png)
+
+-Se coloca el multimetro en los extremos del circuito abierto.
+
+**La resistencia equivalente de Thevenin es la siguiente:**
+
+![image](https://user-images.githubusercontent.com/105677231/183783492-1861766b-7bc7-48e2-9e2f-c1dccba5ee8f.png)
+
+-Para determinar la resistencia de Thevenin, se reemplazan las fuentes por su resistencia interna, la cual es un circuito cerrado o simplemente un cable de conexion. 
+
+**El circuito de Thevenin:**
+
+![image](https://user-images.githubusercontent.com/105677231/183783652-f708807f-f448-4112-8d55-019b02aa9df0.png)
+
+-En este caso se ha utilizado un potenciometro para obtener el valor exacto de la resistencia calculada o medida en la parte de la resistencia equivalente de Thevenin. De esta manera se obtienen los resultados obtenidos para proceder a sacar la potencia que existe en R3 o resistencia de carga. 
+
+![image](https://user-images.githubusercontent.com/105677231/183783805-6d985dc9-284b-49a2-a30a-832792b92279.png)
+
+-Para comprobar el resultado de la potencia, se utiliza un vatímetro, que ayudará en la medicion de esta magnitud. Utilizando el DCACLab.
+
+![image](https://user-images.githubusercontent.com/105677231/183783895-b79c66d6-6493-4159-995a-2f201475a55f.png)
+
+
+
+
 
 
 
