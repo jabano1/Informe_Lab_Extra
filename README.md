@@ -133,6 +133,8 @@ La primera pregunta indica que, mediante el circuito equivalente de Thevenin, se
 
 **4.VIDEO**
 
+https://youtu.be/kU3Ja30fJ54
+
 **5.CONCLUSIONES**
 
 -Se puede concluir que el teorema de superposicion es muy util al momento de trabajar con dos o mas fuentes de corriente y voltaje, ya que al simplificar los pasos para resolver un problema se vuelve mas facil su planteamiento.
